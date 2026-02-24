@@ -1,0 +1,2 @@
+# fudy-assets
+Fudy assets
